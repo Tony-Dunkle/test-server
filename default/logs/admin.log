@@ -1,0 +1,8 @@
+================================================================
+======== txAdmin v7.3.2 atop fxserver 12092 Starting - 23/12/2024, 09:15:05
+================================================================
+[09:15:15][zap724981] logged in from 24.93.212.89 via password
+[09:15:40][zap724981] Changing global settings via setup stepper and started Deployer.
+[09:15:42][zap724981] Setting recipe.
+[09:15:46][zap724981] Running recipe.
+[09:18:30][zap724981] Completed and committed server deploy.
